@@ -36,3 +36,25 @@
 ![Image alt](https://github.com/khudolii/practial.tpcs/raw/main/4.3.jpg)
 
 ### Практична робота №5
+
+1) Вимірювання дистанції за допомогою датчика та відображення в додатку
+
+[Повний скетч](https://github.com/khudolii/practial.tpcs/tree/main/%D0%9F%D0%A05/distance)
+
+Схема:
+
+![Image alt](https://github.com/khudolii/practial.tpcs/blob/main/%D0%9F%D0%A05/scheme2.png)
+
+Результат роботи:
+
+![Image alt](https://github.com/khudolii/practial.tpcs/blob/main/%D0%9F%D0%A05/blynk1.png)
+
+2) Керування сервоприводом в додатку
+
+[Повний скетч](https://github.com/khudolii/practial.tpcs/tree/main/%D0%9F%D0%A05/esp_servo_blynk)
+
+Схема:
+
+![Image alt](https://github.com/khudolii/practial.tpcs/blob/main/%D0%9F%D0%A05/scheme.png)
+
+
